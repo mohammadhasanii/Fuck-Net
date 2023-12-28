@@ -1,5 +1,5 @@
 
-# FuckNet
+# Fuck-Net
 
 Have you ever had a lot of internet and you don't know what to do with it? Reduce your internet volume with this source. I use speedtest to eliminate internet traffic and take download and upload tests automatically.
 
